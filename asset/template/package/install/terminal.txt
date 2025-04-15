@@ -1,0 +1,17 @@
+
+
+##
+## # Terminal
+##
+
+
+
+
+##
+## ## Package / terminal
+##
+
+konsole
+yakuake
+#xfce4-terminal
+#qterminal
