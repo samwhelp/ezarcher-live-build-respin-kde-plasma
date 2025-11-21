@@ -1,0 +1,22 @@
+
+
+##
+## # Desktop Environment
+##
+
+
+
+
+##
+## * https://wiki.archlinux.org/title/KDE
+##
+
+
+
+
+##
+## ## Package / Desktop Environment / Kde Plasma
+##
+
+#plasma
+#plasma-meta
