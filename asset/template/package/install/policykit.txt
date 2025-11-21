@@ -52,13 +52,4 @@ polkit-gnome
 ## ## Package / Polkit / hyprland
 ##
 
-#hyprpolkitagent
-
-
-
-
-##
-## ## Package / Polkit / kde
-##
-
-polkit-kde-agent
+hyprpolkitagent
