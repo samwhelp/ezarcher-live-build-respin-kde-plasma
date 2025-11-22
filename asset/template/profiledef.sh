@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="ezarch-kde"
+iso_name="ezarch-kde-plasma"
 iso_label="EZARCH-KDE_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%y%m%d)"
 iso_publisher="Ezarcher Linux <https://sourceforge.net/projects/ezarch/>"
 iso_application="Ezarcher DVD"
